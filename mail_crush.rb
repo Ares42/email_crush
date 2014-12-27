@@ -7,6 +7,8 @@
 # 4. ???
 # 5. Profit!
 
+#ready
+
 CONFIG = 
 {
   :victim => 'helplessVictim@hotmail.com', # pretty sure you know what to put here
